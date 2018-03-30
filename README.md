@@ -7,3 +7,4 @@
 - [Lindz's blog](https://github.com/happylindz/blog)：关注 Javascript, ES6, React, Vue, Node, 性能优化等
 - [dwqs's blog](https://github.com/dwqs/blog)
 - [sorrycc's blog](https://github.com/sorrycc/blog/issues)
+- [pigcan's blog](https://github.com/pigcan/blog)
