@@ -8,3 +8,4 @@
 - [dwqs's blog](https://github.com/dwqs/blog)
 - [sorrycc's blog](https://github.com/sorrycc/blog/issues)
 - [pigcan's blog](https://github.com/pigcan/blog)
+- [前端小密圈](https://github.com/jawil/blog)
