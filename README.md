@@ -13,3 +13,4 @@
 - [刘博文的博客](https://github.com/berwin/Blog)
 - [蚂蚁数据体验技术团队博客](https://github.com/ProtoTeam/blog)
 - [冴羽的博客](https://github.com/mqyqingfeng/Blog):JavaScript 深入系列、JavaScript 专题系列等
+- [张云龙大大的博客](https://github.com/fouber/blog)
